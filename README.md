@@ -1,6 +1,6 @@
 ## Art Gallery React
 
-My goal was to create a page summarizing selected exhibitions of a fictional gallery. I fetched the data from the public API of the MET museum.
+With this project my goal was to create a page summarizing selected exhibitions of a fictional gallery. I fetched the data from the public API of the MET museum. This project is made with <strong>HTML</strong>, <strong>CSS</strong> and <strong>React</strong>.
 
 ### How to open the project:
 - in VScode open the terminal
